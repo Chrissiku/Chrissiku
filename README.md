@@ -6,5 +6,12 @@
 <h4 align="left">- 💬 Ask me about html5, css3, bootstrap, js, php , sql, mysql</h4>
 <h4 align="left">- 📫 Reach me on -> chrissiki5@gmail.com</h4>
 
+⚡ Take a look on My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact)](https://github.com/Chrissiku/github-readme-stats)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=default)
+</h2>
+
 
 <h3 align="left">Connect with me : <a href="https://twitter.com/christian_siku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christian_siku" height="30" width="40" /></a></h3>
