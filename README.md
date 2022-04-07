@@ -8,10 +8,14 @@
 
 ⚡ Take a look on My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact)](https://github.com/Chrissiku/github-readme-stats)
+
+| <a href="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Maria's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact)](https://github.com/Chrissiku/github-readme-stats)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=default)
-</h2>
+</h2> -->
 
 
-<h3 align="left">Connect with me : <a href="https://twitter.com/christian_siku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christian_siku" height="30" width="40" /></a></h3>
+<h3 align="left">Get in touch : <a href="https://twitter.com/christian_siku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christian_siku" height="30" width="40" /></a></h3>
