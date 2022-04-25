@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 there, I'm Chris Siku</h1>
-<h3 align="left">A passionate frontend developer and junior backend developer</h3>
+<h3 align="left">A passionate frontend developer and backend developer, becoming full-stack developer at Microverse</h3>
 
 <!-- <h4 align="left">- 🌱 I’m performing PHP and its frameworks, JS  its frameworks, HTML, CSS, Bootstrap and other CSS's framework and performing My ReactJS</h4> -->
 <h4 align="left">- 🌱 I’m currently learning Ruby, NodeJs and performing My ReactJS</h4>
