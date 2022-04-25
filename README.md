@@ -6,10 +6,11 @@
 <h4 align="left">- 💬 Ask me about html5, css3, bootstrap, js, php , sql, mysql</h4>
 <h4 align="left">- 📫 Reach me on -> <a href="mailto:chrissiki5@gmail.com">chrissiki5@gmail.com</a></h4>
 <hr>
-### ⚡ Take a look on My Stats :
+
+## ⚡ Take a look on My Stats :
 
 
-| <a href="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Maria's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
+# | <a href="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Maria's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <hr>
