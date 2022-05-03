@@ -21,10 +21,8 @@
    #### - <a href="https://certificates.simplicdn.net/share/3350882_1648504100.pdf" target="_blank">Git Training</a>
    #### - <a href="https://certificates.simplicdn.net/share/3353165_1648562143.pdf" target="_blank">HTML CSS</a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact)](https://github.com/Chrissiku/github-readme-stats)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=default)
-</h2> -->
 <hr>
+
 
 <h3 align="left">Get in touch : <a href="https://twitter.com/christian_siku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christian_siku" height="30" width="40" /></a></h3>
