@@ -1,8 +1,7 @@
-<h1 align="left">Hi 👋 there, I'm Chris Siku</h1>
-<h3 align="left">A passionate front-end developer and back-end developer, 
- <br> Becoming full-stack developer at Microverse</h3>.
+<h1 align="left">Hi 👋 there, I'm Chris Siku</h1> 
+ I'm a software developer who is passionate about making contribution to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs and MySQl.
 
-<!-- <h4 align="left">- 🌱 I’m performing PHP and its frameworks, JS  its frameworks, HTML, CSS, Bootstrap and other CSS's framework and performing My ReactJS</h4> -->
+
 <h4 align="left">- 🌱 I’m currently learning Ruby, NodeJs and performing My ReactJS</h4>
 <h4 align="left">- 💬 Ask me about html5, css3, bootstrap, js, php , sql, mysql</h4>
 <h4 align="left">- 📫 Reach me on -> <a href="mailto:chrissiki5@gmail.com">chrissiki5@gmail.com</a></h4>
