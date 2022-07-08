@@ -1,10 +1,9 @@
-<h1 align="left">Hi 👋 there, I'm Chris Siku</h1> 
- I'm a software developer who is passionate about making contribution to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs and MySQl.
+I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
 
 
-<h4 align="left">- 🌱 I’m currently learning Ruby, NodeJs and performing My ReactJS</h4>
-<h4 align="left">- 💬 Ask me about html5, css3, bootstrap, js, php , sql, mysql</h4>
-<h4 align="left">- 📫 Reach me on -> <a href="mailto:chrissiki5@gmail.com">chrissiki5@gmail.com</a></h4>
+- 🌱 I’m currently learning Ruby, NodeJs and performing My ReactJS
+- 💬 Ask me about html5, css3, bootstrap, js, php , sql, mysql</h4>
+- 📫 Reach me on -> <a href="mailto:chrissiki5@gmail.com">chrissiki5@gmail.com</a></h4>
 <hr>
 
 ## ⚡ Take a look on My Stats :
