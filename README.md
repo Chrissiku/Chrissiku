@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/101924220/178070736-971c4b9c-59c8-4aba-aa55-f565b3ad4e1b.gif)
+
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
 
 
