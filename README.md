@@ -4,8 +4,8 @@
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
 
 
-- 🌱 I’m currently learning Ruby, NodeJs and performing My ReactJS
-- 💬 Ask me about html5, css3, bootstrap, js, php , sql, mysql
+- 🌱 I’m currently learning React, Redux, Ruby, NodeJs and performing My Redux-react skills through projects
+- 💬 Ask me about html5, css3, bootstrap, JavaScript,  React, Redux, php , sql, mysql
 <hr>
 
 ## ⚡ Take a look on My Stats :
