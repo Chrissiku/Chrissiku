@@ -3,8 +3,8 @@
 
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
 
-- 🔭 I recently finished Space-X Traveler's Hub App using Reactjs, Redux, React-redux Babel, JSX, CSS3 and Bootstrap5
-- 🌱 Currently learnig Redux-Toolkit while working on COVID19 TRACKER APP
+- 🔭 I recently finished [Space-X Traveler's Hub](https://space-x-traveler.netlify.app/) App using Reactjs, Redux, React-redux Babel, JSX, CSS3 and Bootstrap5
+- 🌱 I'm currently learnig Redux-Toolkit while working on COVID19 TRACKER APP
 - 👯 Looking to collaborate on Redux, React-Redux and the JavaScript API
 - 💬 Ask me anything about JSX, JavaScript, React, Redux, Bootstrap, CSS3, PHP, SQL
 <hr>
