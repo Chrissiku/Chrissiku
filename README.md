@@ -21,4 +21,4 @@ I'm a software developer passionate about making open source more accessible, bu
 
 <!-- [![Chris Siku's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chrissiku&custom_title=Chris%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Chrissiku/) -->
  
- ![svg](https://raw.githubusercontent.com/Chrissiku/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+<!-- ![svg](https://raw.githubusercontent.com/Chrissiku/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg) -->
