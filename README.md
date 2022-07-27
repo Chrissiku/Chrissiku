@@ -17,3 +17,6 @@ I'm a software developer passionate about making open source more accessible, bu
 
 <p align="center" font-size="25px"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/Chrissiku/count.svg" alt="visitor badge"/></p>
+
+
+ [![Chris Siku's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chrissiku&custom_title=Chris%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Chrissiku/)
