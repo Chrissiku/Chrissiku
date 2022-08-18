@@ -4,8 +4,8 @@
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
 
 - 🔭 I recently finished [Crypto-tracker-app](https://my-crypto-tracker.netlify.app/) App using Reactjs, Redux, React-redux Babel, JSX, CSS3 and Bootstrap5
-- 🌱 I'm currently learnig Redux-Toolkit and Ruby while working on My Portfolio
-- 👯 Looking to collaborate on Redux, React-Redux and the JavaScript API
+- 🌱 I'm currently learnig Ruby and Rails while working on My Portfolio
+- 👯 Looking to collaborate on Ruby, Redux, React-Redux and the JavaScript API
 - 💬 Ask me anything about JSX, JavaScript, React, Redux, Bootstrap, CSS3, PHP, SQL
 <hr>
 
