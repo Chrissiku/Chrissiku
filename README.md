@@ -9,7 +9,7 @@ I'm a software developer passionate about making open source more accessible, bu
 - 💬 Ask me anything about JavaScript, Rest API Reactjs, JSX, Redux, Ruby Bootstrap, CSS3, PHP, SQL
 <hr>
 
-## ⚡ Take a look on My Stats :
+## ⚡ Take a look at My Stats :
 
 
  | <a href="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Chris's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
