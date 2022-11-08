@@ -3,10 +3,10 @@
 
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
 
-- 🔭 I recently finished [My protfolio](https://chris-siku.netlify.app/) webiste using Reactjs, Redux, React-redux, Babel, JSX and CSS
-- 🌱 I'm currently learnig Ruby and Rails while working on A real estate-website
-- 👯 Looking to collaborate on Ruby, Redux, React-Redux,m Ruby and the JavaScript API
-- 💬 Ask me anything about JavaScript, Rest API Reactjs, JSX, Redux, Ruby Bootstrap, CSS3, PHP, SQL
+- 🔭 I recently finish an Hotel Booking App with Ruby on Rails on Backend and React-Redux on front
+- 🌱 I'm currently learnig Nextjs while working on A real estate-webiste
+- 👯 Looking to collaborate on Ruby, Ruby on Rails, Redux, React, Nextjs and the JavaScript
+- 💬 Ask me anything about JavaScript, Reactjs, Redux, Ruby, Rails, ...
 <hr>
 
 ## ⚡ Take a look at My Stats :
