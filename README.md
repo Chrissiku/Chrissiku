@@ -1,12 +1,13 @@
 ![banner](https://user-images.githubusercontent.com/101924220/178070736-971c4b9c-59c8-4aba-aa55-f565b3ad4e1b.gif)
 <!-- ![banner1](https://user-images.githubusercontent.com/101924220/178070972-0435978a-bdd7-4219-af58-e64c95e182ad.PNG) -->
 
-I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building community. Some technologies I enjoy working with include React, Redux, Ruby, Ruby on Rails, JavaScript, PHP, Laravel, APIs, and MySQL.
+I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building communities. 
+Some of the technologies I enjoy working with include React, Next, typescript, Redux, Ruby, Ruby on Rails, JavaScript, PHP, APIs, PostgreSQL, and MySQL.
 
-- 🔭 I recently finish an Hotel Booking App with Ruby on Rails on Backend and React-Redux on front
-- 🌱 I'm currently learnig Nextjs while working on A real estate-webiste
-- 👯 Looking to collaborate on Ruby, Ruby on Rails, Redux, React, Nextjs and the JavaScript
-- 💬 Ask me anything about JavaScript, Reactjs, Redux, Ruby, Rails, ...
+- 🔭 I recently finish , withing a team of 5, an [Hotel Booking App](https://easy-booking12.netlify.app/) with Ruby on Rails on Backend and React-Redux on front
+- 🌱 I'm currently performing Nextjs and TypeScript while working on a [refined version of my portfolio](https://chris-siku.vercel.app/)
+- 👯 Looking to collaborate on Ruby, Ruby on Rails, Redux, React, Nextjs, TypeScript and JavaScript
+- 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, NextJs, Redux, Ruby, Rails and other Web technologies
 <hr>
 
 ## ⚡ Take a look at My Stats :
