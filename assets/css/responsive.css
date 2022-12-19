@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+  .section {
+    padding: 3rem 0;
+  }
+
+  header.has-style-01 .hero-thumb .skills,
+  header.has-style-01 .hero-thumb .experience {
+    display: none;
+  }
+
+  .heading-title {
+    margin-bottom: 1rem;
+  }
+
+  header.has-style-01 .hero-thumb .play {
+    bottom: 0%;
+    left: 50%;
+  }
+
+  .portfolio.has-style-01 .controls {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  .portfolio.has-style-01 .controls button {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .portfolio.has-style-01 .controls button:last-child {
+    margin: 0;
+  }
+
+  .contact-me.has-style-01 ul.social {
+    margin: 40px auto;
+  }
+
+  footer.has-style-01 {
+    padding: 3rem 0 1.5rem;
+  }
+}
+
+@media all and (max-width: 992px) {
+  .shape .shape-01,
+  .shape .shape-02,
+  .shape .shape-03,
+  .shape .shape-04,
+  .shape .shape-05,
+  .shape .shape-06,
+  .shape .shape-07,
+  .shape .shape-08,
+  .shape .shape-09,
+  .shape .shape-10 {
+    display: none;
+  }
+}
