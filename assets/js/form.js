@@ -16,7 +16,7 @@ $(function () {
   // failure
   function fail_func(data) {
     message.fadeIn().removeClass("alert-success").addClass("alert-danger");
-    message.text(data);
+    message.text(data.responseText);
     setTimeout(function () {
       message.fadeOut();
     }, 2000);
