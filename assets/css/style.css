@@ -28,7 +28,7 @@ body {
 
 .section {
   position: relative;
-  padding: 5rem 0;
+  padding: 6rem 0;
   border-top: 2px solid var(--tertiary-02);
 }
 
@@ -684,7 +684,6 @@ header.has-style-01 {
   overflow: hidden;
 }
 
-
 header.has-style-01 .shape-01 {
   left: 25%;
   top: 150px;
@@ -798,7 +797,6 @@ header.has-style-01 .hero-thumb .play {
   left: 1rem;
 }
 
-
 header.has-style-01 .hero-thumb .thumb {
   -webkit-box-shadow: -15px -15px 25px rgba(0, 0, 0, 0.1);
   box-shadow: -15px -15px 25px rgba(0, 0, 0, 0.1);
@@ -831,7 +829,6 @@ header.has-style-01 ul.social li a:hover {
   color: var(--secondary);
 }
 
-
 header.has-style-02 {
   padding: 10rem 0 4rem;
   position: relative;
@@ -849,7 +846,6 @@ header.has-style-02 .shape-03 {
   top: 40%;
   width: 80px;
 }
-
 
 /* end header has-style-02 */
 /* start navbar */
@@ -885,9 +881,6 @@ header.has-style-02 .shape-03 {
 .navbar .navbar-nav li a:hover {
   color: var(--secondary) !important;
 }
-
-
-
 
 /* end navbar */
 /* start what-do */
@@ -1104,10 +1097,10 @@ header.has-style-02 .shape-03 {
 .portfolio.has-style-01 .item-card .tag-link li a {
   background: var(--primary);
   color: var(--gray);
-  padding: 0.5rem 1rem;
+  padding: 0.5rem;
   display: inline-block;
   border-radius: 0.5rem;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .portfolio.has-style-01 .item-card .tag-link li a:hover {
@@ -1120,7 +1113,8 @@ header.has-style-02 .shape-03 {
   position: relative;
 }
 
-.portfolio.has-style-01 .item-card .item-image .link-image {
+.portfolio.has-style-01 .item-card .item-image .link-image,
+.portfolio.has-style-01 .item-card .item-image .link-view {
   position: absolute;
   bottom: -50px;
   right: -50px;
@@ -1137,11 +1131,12 @@ header.has-style-02 .shape-03 {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  height: 45px;
-  width: 45px;
+  height: 50px;
+  width: 80px;
   -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
 }
+
 
 .portfolio.has-style-01 .item-card .item-image img {
   width: 100%;
@@ -1153,7 +1148,13 @@ header.has-style-02 .shape-03 {
   right: 0;
 }
 
-.portfolio.has-style-01 .item-card:hover .link-image:hover {
+.portfolio.has-style-01 .item-card:hover .link-view {
+  bottom: 0;
+  left: 0;
+}
+
+.portfolio.has-style-01 .item-card:hover .link-image:hover,
+.portfolio.has-style-01 .item-card:hover .link-view:hover {
   background: var(--tertiary);
 }
 

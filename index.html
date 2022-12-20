@@ -54,16 +54,16 @@
         <div class="collapse navbar-collapse" id="navbarContent">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html"
+              <a
+                class="nav-link active"
+                aria-current="page"
+                href="index.html#home"
                 >home</a
               >
             </li>
             <li class="nav-item">
-              <a
-                class="nav-link"
-                href="index.html#about-me"
-                data-value="about-me"
-                >about me</a
+              <a class="nav-link" href="index.html#about" data-value="about-me"
+                >about</a
               >
             </li>
             <li class="nav-item">
@@ -75,16 +75,15 @@
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="portfolio.html">portfolio</a>
+              <a class="nav-link" href="index.html#portfolio">portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact-me.html">contact me</a>
+              <a class="nav-link" href="index.html#contact">contact</a>
             </li>
 
-            <li class="nav-item dropdown">
+            <!-- <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
-                href="#"
                 id="navbarDropdown"
                 role="button"
                 data-bs-toggle="dropdown"
@@ -93,15 +92,15 @@
               >
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
-                  <a class="dropdown-item" href="project-details.html"
-                    >View CV</a
+                  <a
+                    class="dropdown-item"
+                    target="_blank"
+                    href="https://docs.google.com/document/d/1_yKjArBE50904Q_SaCQKlLv8OLical-ZdpUaHpYTpJY/edit?usp=sharing"
+                    >View my CV</a
                   >
                 </li>
-                <li>
-                  <a class="dropdown-item" href="comment.html">Add comment</a>
-                </li>
               </ul>
-            </li>
+            </li> -->
           </ul>
         </div>
         <!-- .navbar-collapse -->
@@ -110,7 +109,7 @@
     <!-- end navbar -->
 
     <!-- start header -->
-    <header class="has-style-01">
+    <header id="home" class="has-style-01">
       <!-- start shape -->
       <div class="shape">
         <img class="shape-01" src="assets/img/shape/shape-04.png" alt="shape" />
@@ -134,7 +133,7 @@
               <h3>A Full-Stack software developer</h3>
 
               <ul class="link d-flex">
-                <li><a class="btn btn-generic" href="#">Contact</a></li>
+                <li><a class="btn btn-generic" href="#contact">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -167,30 +166,86 @@
       </div>
 
       <!-- start social -->
-      <ul class="social">
+      <ul id="social" class="social">
         <li>
-          <a href="#contact"><i class="fa-regular fa-comment-dots"></i></a>
+          <a href="mailto:chrissiku5@gmail.conm" target="_blank"
+            ><i class="fa-regular fa-comment-dots"></i
+          ></a>
         </li>
         <li>Follow Me</li>
         <li>---->--</li>
-        <li>
-          <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-        </li>
-
-        <li>
-          <a href="#"><i class="fa-brands fa-twitter"></i></a>
-        </li>
-
-        <li>
-          <a href="#"><i class="fa-brands fa-github"></i></a>
-        </li>
-
-        <li>
-          <a href="#"><i class="fa-brands fa-angellist"></i></a>
-        </li>
       </ul>
       <!-- end social -->
     </header>
+
+    <!-- About -->
+    <section id="about" class="section about-me has-style-01">
+      <div class="shape">
+        <img
+          class="shape-04"
+          src="assets/img/shape/shape-what-i-do2.png"
+          alt="shape"
+        />
+        <img class="shape-07" src="assets/img/shape/shape-05.png" alt="shape" />
+      </div>
+
+      <div class="container">
+        <div class="row align-items-center justify-content-between">
+          <!-- start heading-title -->
+          <div class="col-lg-5">
+            <div class="heading-title">
+              <h3>About Me</h3>
+              <h2>
+                A Passionate software Developer Who Loves to Code and face new
+                challenges
+              </h2>
+              <p>
+                A Fullstack Software Developer and Holder of a Bachelor Degree
+                in computer science , I am a transversal profile with 3 years of
+                experience in the development of web application and embedded
+                electronics. Sociable and determined, I pursue innovation across
+                the world and its cultures. Organize, renew and learn are my
+                watchwords. Something I can't do? i will learn it!
+              </p>
+            </div>
+
+            <ul class="row row-cols-md-2 row-cols-2 info">
+              <li><i class="fi fi-rr-check"></i> Problem Solving</li>
+              <li><i class="fi fi-rr-check"></i> Creative Idea</li>
+              <li><i class="fi fi-rr-check"></i> Search A Lot</li>
+              <li><i class="fi fi-rr-check"></i> High code quality</li>
+              <li><i class="fi fi-rr-check"></i> Good Time management</li>
+              <li><i class="fi fi-rr-check"></i> Team player</li>
+            </ul>
+
+            <!-- start link -->
+            <ul class="link d-flex">
+              <li>
+                <a class="btn btn-generic m-1" href="#contact">Hire me</a>
+              </li>
+              <li>
+                <a
+                  class="btn btn-generic m-1"
+                  target="_blank"
+                  href="https://docs.google.com/document/d/1_yKjArBE50904Q_SaCQKlLv8OLical-ZdpUaHpYTpJY/edit?usp=sharing"
+                  >My resume <i class="fa-solid fa-download ms-2"></i
+                ></a>
+              </li>
+            </ul>
+            <!-- end link -->
+          </div>
+          <!-- end heading-title -->
+
+          <!-- start hero-content -->
+          <div class="col-lg-6 hero-content">
+            <div class="row align-items-center justify-content-between">
+              <img src="assets/img/about.jpg" alt="image-about" />
+            </div>
+          </div>
+          <!-- end hero-content -->
+        </div>
+      </div>
+    </section>
 
     <!-- Services-->
     <section id="services" class="section what-do has-style-01">
@@ -217,17 +272,20 @@
         <div
           class="row align-items-center justify-content-between flex-row-reverse"
         >
-          <div class="col-lg-5 col-md-6 col-12">
+          <div class="col-lg-6 col-md-6 col-12">
             <div class="heading-title">
-              <h3>what i do</h3>
+              <h3>I can work with you as</h3>
               <h2>
-                Full-Stack web development, <br />
-                Better experiences
+                Full-Stack web developer, <br />
+                Frontend focused <br />
               </h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing andtypesetting
-                industry. Lorem Ipsum has been the Website industry's standard
-                dummy .
+                Your products deserve state-of-the-art technology. I can help
+                you create a product, a feature, a web application that meets
+                your expectations. take your time and browse some of my work and
+                experiences! If you like what you see and have a project, a
+                request, or simply want to collaborate, do not hesitate to
+                <a href="#contact" style="color: #eb4a4a"> get in touch.</a>
               </p>
             </div>
           </div>
@@ -251,11 +309,11 @@
                   <div class="col-12">
                     <div class="box">
                       <div class="icon">
-                        <i class="fa-solid fa-desktop"></i>
+                        <i class="fa-solid fa-laptop-code"></i>
                       </div>
                       <h4>
-                        Website <br />
-                        Design
+                        Frontend <br />
+                        development
                       </h4>
                     </div>
                   </div>
@@ -267,6 +325,12 @@
                   <div class="icon"><i class="fa-solid fa-gears"></i></div>
                   <h4>Backend development</h4>
                 </div>
+                <div class="box">
+                  <div class="icon">
+                    <i class="fa-solid fa-project-diagram"></i>
+                  </div>
+                  <h4>REST API development</h4>
+                </div>
               </div>
             </div>
           </div>
@@ -274,134 +338,19 @@
       </div>
     </section>
 
-    <!-- Skils -->
-    <section class="section skils has-style-01">
+    <!-- Skills -->
+    <section id="skills" class="section skils has-style-01">
       <div class="container">
         <div class="heading-title">
           <h3>My Skills</h3>
           <h2>I Work Hard to improve My Skills Regularly</h2>
         </div>
-        <div class="row">
-          <div class="col-lg-2 col-md-3 col-6">
-            <div class="progress" data-percentage="95">
-              <span class="progress-left">
-                <span class="progress-bar"></span>
-              </span>
-              <span class="progress-right">
-                <span class="progress-bar"></span
-              ></span>
-              <div class="progress-value">
-                <h3>React js</h3>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-6">
-            <div class="progress" data-percentage="90">
-              <span class="progress-left"
-                ><span class="progress-bar"></span
-              ></span>
-              <span class="progress-right"
-                ><span class="progress-bar"></span
-              ></span>
-              <div class="progress-value">
-                <h3>javascript</h3>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-6">
-            <div class="progress" data-percentage="75">
-              <span class="progress-left"
-                ><span class="progress-bar"></span
-              ></span>
-              <span class="progress-right"
-                ><span class="progress-bar"></span
-              ></span>
-              <div class="progress-value">
-                <h3>HTML & CSS</h3>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-6">
-            <div class="progress" data-percentage="50">
-              <span class="progress-left"
-                ><span class="progress-bar"></span
-              ></span>
-              <span class="progress-right"
-                ><span class="progress-bar"></span
-              ></span>
-              <div class="progress-value">
-                <h3>Sketch</h3>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- About-me -->
-    <section id="about-me" class="section about-me has-style-01">
-      <div class="shape">
-        <img
-          class="shape-04"
-          src="assets/img/shape/shape-what-i-do2.png"
-          alt="shape"
-        />
-        <img class="shape-07" src="assets/img/shape/shape-05.png" alt="shape" />
-      </div>
-
-      <div class="container">
-        <div class="row align-items-center justify-content-between">
-          <!-- start heading-title -->
-          <div class="col-lg-5">
-            <div class="heading-title">
-              <h3>About Me</h3>
-              <h2>
-                Hi, Im here <br />
-                to help your next project
-              </h2>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an .
-              </p>
-            </div>
-
-            <ul class="row row-cols-md-2 row-cols-2 info">
-              <li><i class="fi fi-rr-check"></i> Problem Solving</li>
-              <li><i class="fi fi-rr-check"></i> Creative Idea</li>
-              <li><i class="fi fi-rr-check"></i> Search A Lot</li>
-              <li><i class="fi fi-rr-check"></i> High quality</li>
-            </ul>
-
-            <!-- start link -->
-            <ul class="link d-flex">
-              <li><a class="btn btn-generic m-1" href="#">Hire me</a></li>
-              <li>
-                <a class="btn btn-generic m-1" href="#"
-                  >My resume <i class="fa-solid fa-download ms-2"></i
-                ></a>
-              </li>
-            </ul>
-            <!-- end link -->
-          </div>
-          <!-- end heading-title -->
-
-          <!-- start hero-content -->
-          <div class="col-lg-6 hero-content">
-            <div class="row align-items-center justify-content-between">
-              <img src="assets/img/about.jpg" alt="image-about" />
-            </div>
-          </div>
-          <!-- end hero-content -->
-        </div>
+        <div id="render-skills" class="row"></div>
       </div>
     </section>
 
     <!-- Portfolio -->
-    <section class="section portfolio has-style-01">
+    <section id="portfolio" class="section portfolio has-style-01">
       <div class="shape">
         <img class="shape-03" src="assets/img/shape/shape-03.png" alt="shape" />
         <img class="shape-07" src="assets/img/shape/shape-05.png" alt="shape" />
@@ -417,160 +366,16 @@
             </div>
           </div>
 
-          <div class="col-lg-5 col-md-6 col-12 controls">
-            <button type="button" data-filter="all">All topics</button>
-            <button type="button" data-filter=".mobile">Mobile App</button>
-            <button type="button" data-filter=".web">Web Design</button>
-          </div>
+          <div id="topic" class="col-lg-5 col-md-6 col-12 controls"></div>
         </div>
-        <!-- end heading-title -->
 
         <!-- start item -->
-        <div class="row auction-filter justify-content-center">
-          <!-- start item-card -->
-          <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-12 mix web">
-            <div class="item-card">
-              <h4><a class="title-link" href="#">Web UI-UX Design</a></h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's s
-              </p>
-              <ul class="tag-link">
-                <li><a href="#">web UI-UX</a></li>
-                <li><a href="#">UI-UX</a></li>
-                <li><a href="#">web</a></li>
-              </ul>
-              <div class="item-image">
-                <a class="link-image" href="#">
-                  <i class="fa fa-arrow-right"></i>
-                </a>
-                <img src="assets/img/app1.png" alt="image portfolio" />
-              </div>
-            </div>
-          </div>
-          <!-- end item-card -->
-
-          <!-- start item-card -->
-          <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-12 mix mobile">
-            <div class="item-card">
-              <h4><a class="title-link" href="#">Web UI-UX Design</a></h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's s
-              </p>
-              <ul class="tag-link">
-                <li><a href="#">web UI-UX</a></li>
-                <li><a href="#">UI-UX</a></li>
-                <li><a href="#">web</a></li>
-              </ul>
-              <div class="item-image">
-                <a class="link-image" href="#"
-                  ><i class="fa fa-arrow-right"></i
-                ></a>
-                <img src="assets/img/app1.png" alt="image Portfolio" />
-              </div>
-            </div>
-          </div>
-          <!-- end item-card -->
-
-          <!-- start item-card -->
-          <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-12 mix mobile">
-            <div class="item-card">
-              <h4><a class="title-link" href="#">Web UI-UX Design</a></h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's s
-              </p>
-              <ul class="tag-link">
-                <li><a href="#">web UI-UX</a></li>
-                <li><a href="#">UI-UX</a></li>
-                <li><a href="#">web</a></li>
-              </ul>
-              <div class="item-image">
-                <a class="link-image" href="#"
-                  ><i class="fa fa-arrow-right"></i
-                ></a>
-                <img src="assets/img/app1.png" alt="image portfolio" />
-              </div>
-            </div>
-          </div>
-          <!-- end item-card -->
-
-          <!-- start item-card -->
-          <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-12 mix web">
-            <div class="item-card">
-              <h4><a class="title-link" href="#">Web UI-UX Design</a></h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's s
-              </p>
-              <ul class="tag-link">
-                <li><a href="#">web UI-UX</a></li>
-                <li><a href="#">UI-UX</a></li>
-                <li><a href="#">web</a></li>
-              </ul>
-              <div class="item-image">
-                <a class="link-image" href="#"
-                  ><i class="fa fa-arrow-right"></i
-                ></a>
-                <img src="assets/img/app1.png" alt="image portfolio" />
-              </div>
-            </div>
-          </div>
-          <!-- end item-card -->
-
-          <!-- start item-card -->
-          <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-12 mix mobile">
-            <div class="item-card">
-              <h4><a class="title-link" href="#">Web UI-UX Design</a></h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's s
-              </p>
-              <ul class="tag-link">
-                <li><a href="#">web UI-UX</a></li>
-                <li><a href="#">UI-UX</a></li>
-                <li><a href="#">web</a></li>
-              </ul>
-              <div class="item-image">
-                <a class="link-image" href="#"
-                  ><i class="fa fa-arrow-right"></i
-                ></a>
-                <img src="assets/img/app1.png" alt="image portfolio" />
-              </div>
-            </div>
-          </div>
-          <!-- end item-card -->
-
-          <!-- start item-card -->
-          <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-12 mix web">
-            <div class="item-card">
-              <h4><a class="title-link" href="#">Web UI-UX Design</a></h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's s
-              </p>
-              <ul class="tag-link">
-                <li><a href="#">web UI-UX</a></li>
-                <li><a href="#">UI-UX</a></li>
-                <li><a href="#">web</a></li>
-              </ul>
-              <div class="item-image">
-                <a class="link-image" href="#"
-                  ><i class="fa fa-arrow-right"></i
-                ></a>
-                <img src="assets/img/app1.png" alt="image portfolio" />
-              </div>
-            </div>
-          </div>
-          <!-- end item-card -->
-        </div>
-        <!-- end item -->
+        <div id="posts" class="row auction-filter justify-content-center"></div>
       </div>
     </section>
 
-    <!-- Contact Me -->
-    <section class="section contact-me has-style-01">
+    <!-- Contact -->
+    <section id="contact" class="section contact-me has-style-01">
       <div class="shape">
         <img class="shape-03" src="assets/img/shape/shape-03.png" alt="shape" />
         <img class="shape-07" src="assets/img/shape/shape-05.png" alt="shape" />
@@ -599,25 +404,13 @@
                 <a href="tel:+243 992 984 499">+243 992 984 499</a>
               </li>
             </ul>
-            <ul class="social d-flex">
-              <li>
-                <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-              </li>
-              <li>
-                <a href="#"><i class="fa-brands fa-github"></i></a>
-              </li>
-              <li>
-                <a href="#"><i class="fa-brands fa-twitter"></i></a>
-              </li>
-              <li>
-                <a href="#"><i class="fa-brands fa-angellist"></i></a>
-              </li>
-            </ul>
+            <ul id="social" class="social d-flex"></ul>
           </div>
 
           <div class="col-lg-6">
             <div class="contact_form">
               <div class="row">
+                <div class="heading-title"></div>
                 <div class="col-lg-12">
                   <form class="contact__form" method="post" action="">
                     <div class="row">
@@ -714,6 +507,7 @@
     <script src="./assets/js/fancybox.umd.js"></script>
     <script src="./assets/js/kursor.js"></script>
     <script src="./assets/js/mixitup.min.js"></script>
+    <script src="./assets/js/render.js"></script>
     <script src="./assets/js/app.js"></script>
   </body>
 </html>

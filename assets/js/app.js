@@ -3,7 +3,7 @@ $(document).ready(function () {
 
   // Sticky Menu
   $(window).on("scroll", function () {
-    if ($(this).scrollTop() >= 200) {
+    if ($(this).scrollTop() >= 100) {
       $(".navbar").addClass("fixed-top");
     } else if ($(this).scrollTop() == 0) {
       $(".navbar").removeClass("fixed-top");
