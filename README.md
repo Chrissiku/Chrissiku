@@ -16,6 +16,8 @@ Some of the technologies I enjoy working with include React, Next, typescript, R
  | <a href="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrissiku&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Chris's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissiku&layout=compact&langs_count=8&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Chrissiku&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0" /><p>
+
 <p align="center" font-size="25px"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/Chrissiku/count.svg" alt="visitor badge"/></p>
 
