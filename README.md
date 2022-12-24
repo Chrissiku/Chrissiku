@@ -4,10 +4,10 @@
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building communities. 
 Some of the technologies I enjoy working with include React, Next, typescript, Redux, Ruby, Ruby on Rails, JavaScript, PHP, APIs, PostgreSQL, and MySQL.
 
-- 🔭 I recently finish , withing a team of 5, an [Hotel Booking App](https://easy-booking12.netlify.app/) with Ruby on Rails on Backend and React-Redux on front
-- 🌱 I'm currently performing Nextjs and TypeScript while working on a [refined version of my portfolio](https://chris-siku.vercel.app/)
-- 👯 Looking to collaborate on Ruby, Ruby on Rails, Redux, React, Nextjs, TypeScript and JavaScript
-- 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, NextJs, Redux, Ruby, Rails and other Web technologies
+- 🔭 I recently finish , withing a team of 5, an [Hotel Booking App](https://easy-booking12.netlify.app/) with Ruby on Rails on Backend and React-Redux on frontend.
+- 🌱 I'm currently performing Nextjs and TypeScript while working on a [refined version of my portfolio](https://chris-siku.vercel.app/).
+- 👯 Looking to collaborate on Ruby, Ruby on Rails, Redux, React, Nextjs, TypeScript and JavaScript.
+- 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, NextJs, Redux, Ruby, Rails and other Web technologies.
 <hr>
 
 ## ⚡ Take a look at My Stats :
