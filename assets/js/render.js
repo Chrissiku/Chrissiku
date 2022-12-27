@@ -79,7 +79,8 @@ social_link.map((item) => {
 const allTopics = [
   { title: "All works", class: "all" },
   { title: "Web design", class: ".web" },
-  { title: "Mobile", class: ".mobile" },
+  { title: "Responsive", class: ".responsive" },
+  { title: "Features", class: ".feature" },
 ];
 
 allTopics.map((item) => {
