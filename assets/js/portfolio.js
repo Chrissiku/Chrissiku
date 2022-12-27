@@ -2,6 +2,25 @@
 const portfolio = document.querySelector("#posts");
 
 const allPosts = [
+  // Folio
+  {
+    topic: "responsive",
+    link: "https://chris-siku.vercel.app/",
+    title: "Folio website",
+    content: ``,
+    stacks: [
+      {
+        link: "https://reactjs.org/docs/getting-started.html",
+        name: "Reactjs",
+      },
+      { link: "https://en.wikipedia.org/wiki/CSS", name: "CSS" },
+      { link: "https://en.wikipedia.org/wiki/HTML", name: "HTML" },
+    ],
+    live: [true, "https://chris-siku.vercel.app/"],
+    source: [true, "https://github.com/Chrissiku/Chris-Siku-v1"],
+    image:
+      "https://user-images.githubusercontent.com/101924220/209703582-eeb2e313-50a3-49a8-b133-8c5a6f5d49ea.png",
+  },
   // House rental
   {
     topic: "responsive",
