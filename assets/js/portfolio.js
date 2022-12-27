@@ -2,6 +2,26 @@
 const portfolio = document.querySelector("#posts");
 
 const allPosts = [
+  // House rental
+  {
+    topic: "responsive",
+    link: "https://chrissiku.github.io/real-estate/index.html",
+    title: "Real Estate",
+    content: ``,
+    stacks: [
+      {
+        link: "https://getbootstrap.com/docs/5.0/getting-started/introduction/",
+        name: "Bootstrap 5",
+      },
+      { link: "https://www.learn-html.org/", name: "HTML" },
+      { link: "https://en.wikipedia.org/wiki/CSS", name: "CSS" },
+      { link: "https://www.javascript.com/", name: "JavaScript" },
+    ],
+    live: [true, "https://chrissiku.github.io/real-estate/index.html"],
+    source: [true, "https://github.com/Chrissiku/real-estate"],
+    image:
+      "https://user-images.githubusercontent.com/101924220/209696457-a0769944-e81f-49d9-a8a3-c3e5edcc2923.png",
+  },
   // Portfolio website
   {
     topic: "web",
