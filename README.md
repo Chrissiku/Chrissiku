@@ -10,10 +10,6 @@ Some of the technologies I enjoy working with include React, Next, typescript, R
 - 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, NextJs, Redux, Ruby, Rails and other Web technologies.
 <hr>
 
-##  Take a look at My projects :
-
-[My projects](https://chrissiku.vercel.app/)
-
 ## ⚡ Take a look at My Stats :
 
 
