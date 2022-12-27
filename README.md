@@ -27,7 +27,3 @@ Some of the technologies I enjoy working with include React, Next, typescript, R
 <!-- ![svg](https://raw.githubusercontent.com/Chrissiku/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer"/>
-
-
-![bookstore](https://user-images.githubusercontent.com/101924220/209657836-0965c8de-8869-4308-b779-405bfa55cdc1.png)
-![breakout-game](https://user-images.githubusercontent.com/101924220/209657840-44b0c28a-ddba-41d2-ace1-ac6b9be60c06.png)

@@ -78,6 +78,21 @@ const allPosts = [
     image:
       "https://user-images.githubusercontent.com/101924220/209657847-0fece210-73f2-4e07-81ea-e5cbe391ccc9.png",
   },
+  // House rental 2
+  {
+    topic: "responsive",
+    link: "https://chrissiku.github.io/house_rental/",
+    title: "House Renatl",
+    content: ``,
+    stacks: [
+      { link: "https://www.learn-html.org/", name: "HTML" },
+      { link: "https://en.wikipedia.org/wiki/CSS", name: "CSS" },
+    ],
+    live: [true, "https://chrissiku.github.io/house_rental/"],
+    source: [true, "https://github.com/Chrissiku/house_rental"],
+    image:
+      "https://user-images.githubusercontent.com/101924220/209699847-d943b478-51d5-4413-b613-90a424c159a1.png",
+  },
   // SpaceX
   {
     topic: "feature",
@@ -202,7 +217,7 @@ allPosts.map((element) => {
                   </a>
   
                   <a target="_blank" class="link-view" href="${element.source[1]}">
-                      <i class="fa fa-globe"></i>
+                      <i class="fab fa-github"></i>
                   </a>
                   <img src="${element.image}" alt="image ${element.title}" />
                 </div>
