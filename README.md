@@ -1,5 +1,6 @@
-![banner](https://user-images.githubusercontent.com/101924220/178070736-971c4b9c-59c8-4aba-aa55-f565b3ad4e1b.gif)
+<!-- ![banner](https://user-images.githubusercontent.com/101924220/178070736-971c4b9c-59c8-4aba-aa55-f565b3ad4e1b.gif) -->
 <!-- ![banner1](https://user-images.githubusercontent.com/101924220/178070972-0435978a-bdd7-4219-af58-e64c95e182ad.PNG) -->
+![Purple Pink Modern Programmer LinkedIn Banner](https://user-images.githubusercontent.com/101924220/211615060-0153728d-e91d-42b0-a823-80f1d2c80da8.gif)
 
 I'm a software developer passionate about making open source more accessible, building technology to uplift people, and building communities. 
 Some of the technologies I enjoy working with include React, Next, typescript, Redux, Ruby, Ruby on Rails, JavaScript, PHP, APIs, PostgreSQL, and MySQL.
