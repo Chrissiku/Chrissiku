@@ -4,10 +4,10 @@
 
 As a software developer, I am dedicated to increasing the accessibility of open source technologies, creating tools that empower individuals, and fostering a sense of community. My areas of expertise include utilizing technologies such as React, Next, TypeScript, Redux, Ruby, Ruby on Rails, JavaScript, PHP, APIs, PostgreSQL, and MySQL.
 
-- 🔭 I recently finish , withing a team of 5, an [Hotel Booking App](https://easy-booking12.netlify.app/) with Ruby on Rails on Backend and React-Redux on frontend.
-- 🌱 I'm currently performing Nextjs and TypeScript while working on a [refined version of my portfolio](https://chris-siku.vercel.app/).
+- 🔭 I recently finish the redesign of [CANAL+ Afrique](https://canalplus-afrique.vercel.app/) with Nextjs, Typescript and Taiwindcss.
+- 🌱 I'm currently performing Nextjs and TypeScript while working on a [refined version of my portfolio](https://chrissiku.vercel.app/).
 - 👯 Looking to collaborate on Ruby, Ruby on Rails, Redux, React, Nextjs, TypeScript and JavaScript.
-- 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, NextJs, Redux, Ruby, Rails and other Web technologies.
+- 💬 Ask me anything about HTML, CSS, JavaScript, Reactjs, Typescript, NextJs, Redux, Ruby, Ruby on Rails, Tailwindcss and other Web technologies.
 <hr>
 
 ## ⚡ Take a look at My Stats :
