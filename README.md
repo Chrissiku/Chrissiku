@@ -4,7 +4,7 @@
 
 As a software developer, I am dedicated to increasing the accessibility of open source technologies, creating tools that empower individuals, and fostering a sense of community. My areas of expertise include utilizing technologies such as React, Next, TypeScript, Redux, Ruby, Ruby on Rails, JavaScript, PHP, APIs, PostgreSQL, and MySQL.
 
-- 🌱 I’m currently working on becoming an active open source contributor (and eventually a maintainer)!.
+- 🌱 I’m currently working on becoming an active open source contributor (and eventually a maintainer) and getting the magic behind the Decentralized Web.
 - 👯 Looking to collaborate on Web5, Ruby, Ruby on Rails, Redux, React, Nextjs, TypeScript and JavaScript.
 - 💬 Ask me anything about Web5, Reactjs, Typescript, NextJs, Rails, GitHub, open source and community building.
 <hr>
